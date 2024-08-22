@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+  background: url(../img/symphony.png);
+  background-size:cover
+  background-position: center;
+  height: 100%;
+}
+body{
+  100%
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*additional styles*/
+}
+
+}
+
+h1 {
+  color: tomato;
+}
+
+h2 {
+  color: Salmon;
+}
+
+a.eMail {
+  color: DarkSeaGreen;
+  text-decoration: none;
+}
+
+h1.Name {
+  margin-bottom: 0px;
+  border: 10px solid tomato;
+  padding: 30px;
+  display: inline;
+}
+display{
+  display: flex;
+}
+
+#wrapper {
+  margin-top: 150px;
+}
+
+h2.title {
+  margin-top: 40px;
+  padding: 30px;
+}
+
+.Phone_Number {
+  color: DarkSeaGreen;
+}
+
+/* Quote Styles */
+.inspirational-quote-goes-here {
+  font-style: italic;
+  font-size: 20px;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
+.lineBreak {
+  border: 1px solid grey;
+  margin: 30px auto;
+  width: 50%;
+}
